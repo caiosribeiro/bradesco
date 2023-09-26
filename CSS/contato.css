@@ -13,6 +13,13 @@ nav ul li{
 	left: 54.7%;
 }
 
+@media only screen and (max-width:900px){
+	nav ul li{
+	left: 30%;
+	}
+}
+
+
 @media only screen and (max-width:858px){
 	#txt-contato form button{
 		width: 50%;
