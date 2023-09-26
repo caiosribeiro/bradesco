@@ -1,0 +1,45 @@
+header{
+	width: 100.5%;
+}
+
+nav ul li{
+	left: 54.7%;
+}
+
+#container-sobre{
+	position: relative;
+	left: 0.5%;
+}
+
+@media only screen and (max-width:900px){
+	.img-titulo{
+		width: 30%;
+	}
+}
+
+@media only screen and (max-width: 500px){
+	.img-titulo{
+		width: 40%;
+		left: 30%;
+	}
+}
+
+@media only screen and (max-width: 365px){
+	nav ul li{
+		left: 20%;
+	}
+
+	body{
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 350px){
+	.img-titulo{
+		width: 50%;
+	}
+
+	nav ul li{
+		left: -10%;
+	}	
+}
