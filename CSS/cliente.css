@@ -12,7 +12,7 @@ nav ul li{
 	}
 
 	nav ul li{
-	left: 30%;
+	left: 35%;
 	}
 }
 
@@ -29,9 +29,9 @@ nav ul li{
 	}
 }
 
-@media only screen and (max-width: 365px){
+@media only screen and (max-width: 394px){
 	nav ul li{
-		left: 20%;
+	left: 20%;
 	}
 }
 
