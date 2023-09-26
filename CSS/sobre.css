@@ -15,6 +15,10 @@ nav ul li{
 	.img-titulo{
 		width: 30%;
 	}
+
+	nav ul li{
+	left: 30%;
+	}
 }
 
 @media only screen and (max-width: 500px){
