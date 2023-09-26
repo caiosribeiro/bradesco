@@ -1,0 +1,77 @@
+#txt-contato{
+	position: relative;
+	left: 10%;
+	top: 50px;
+	width: 80%;
+}
+
+header{
+	width: 100.5%;
+}
+
+nav ul li{
+	left: 54.7%;
+}
+
+@media only screen and (max-width:858px){
+	#txt-contato form button{
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width:782px){
+	#conta-data{
+		position: relative;
+		left: 10%;
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width:700px){
+	.img-titulo{
+		width: 30%;
+	}
+
+	#conta-data{
+		position: relative;
+		left: 10%;
+		font-size: 12px;
+	}
+}
+
+@media only screen and (max-width: 628px){
+	#txt-contato #conta-data{
+		width: 40%;
+	}
+
+	#txt-contato{
+		width: 90%;
+	}
+}
+
+@media only screen and (max-width: 500px){
+	.img-titulo{
+		width: 40%;
+		left: 30%;
+	}
+}
+
+@media only screen and (max-width: 365px){
+	nav ul li{
+		left: 20%;
+	}
+
+	#conta-data{		
+		font-size: 10px;
+	}
+}
+
+@media only screen and (max-width: 350px){
+	.img-titulo{
+		width: 50%;
+	}
+
+	nav ul li{
+		left: -10%;
+	}	
+}
