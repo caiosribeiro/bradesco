@@ -17,7 +17,7 @@ nav ul li{
 	}
 
 	nav ul li{
-	left: 30%;
+	left: 35%;
 	}
 }
 
@@ -25,6 +25,12 @@ nav ul li{
 	.img-titulo{
 		width: 40%;
 		left: 30%;
+	}
+}
+
+@media only screen and (max-width: 394px){
+	nav ul li{
+	left: 20%;
 	}
 }
 
